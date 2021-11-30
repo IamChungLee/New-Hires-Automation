@@ -1,0 +1,2 @@
+ssn,first name,middle name,last name,birthdate,gender,address,city,state,apt,home phone,email,hire date, aca,department,bill to name,federal status,dependent credits,state status,exemptions
+123-45-6789,john,n,doe,10-10-1010,female,1 broadway,New York,ny,5A,(123)-456-7890,abc123@gmail.com,07/13/2021,variable,nurse,nycde,s,0,s,0
